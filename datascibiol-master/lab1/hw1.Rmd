@@ -7,7 +7,7 @@ output:
     theme: spacelab
 ---
 
-## Instructions
+## Instructions 
 Answer the following questions and/or complete the exercises in RMarkdown. Please embed all of your code and push the final work to your repository. Your report should be organized, clean, and run free from errors. Remember, you must remove the `#` for any included code chunks to run.  
 
 **1. Please tell us why you are taking BIS 15L.**
