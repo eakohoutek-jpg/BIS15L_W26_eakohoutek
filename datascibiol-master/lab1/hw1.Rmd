@@ -11,8 +11,10 @@ output:
 Answer the following questions and/or complete the exercises in RMarkdown. Please embed all of your code and push the final work to your repository. Your report should be organized, clean, and run free from errors. Remember, you must remove the `#` for any included code chunks to run.  
 
 **1. Please tell us why you are taking BIS 15L.**
+BIS 15L is a required course for my major.
 
 **2. Do you have any coding experience? If yes, please tell us what languages you have coded in and your level of experience.**
+I do not have any coding experience.
 
 **3. Navigate to the `datascibiol` repository on GitHub. Notice that near the bottom there is a description of the repository. You want something like this on your repository! It is built by making edits to the `README.md` file using RMarkdown. Edit your repository's `README.md` file so that you have an informative description, including your email address. Be creative! You don't need to just copy mine. There are lots of examples online.**  
 
